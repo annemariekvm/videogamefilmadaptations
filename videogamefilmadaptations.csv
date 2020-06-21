@@ -1,0 +1,172 @@
+id,label,"type(1=animated, 2=live-action)","release(1=cinematic, 2=tv, 3=video)","place(1=hollywood, 2=japan, 3=internationaal)",franchise,year,"age_rating(child=1, teen=2, adult=3)",cc_mc,ac_mc,cc_rt,ac_rt
+1,Super Mario Bros.,2,1,1,Super Mario,1993,1,NA,NA,23,29
+2,Double Dragon,2,1,1,Double Dragon,1994,2,NA,NA,13,26
+3,Street Fighter,2,1,1,Street Fighter,1994,2,NA,NA,10,20
+4,Mortal Kombat,2,1,1,Mortal Kombat,1995,2,58,8.4,47,57
+5,Mortal Kombat: Annihilation,2,1,1,Mortal Kombat,1997,2,11,7.9,2,25
+6,Wing Commander,2,1,1,Wing Commander,1999,2,21,4.9,10,25
+7,Lara Croft: Tomb Raider,2,1,1,Lara Croft,2001,2,33,5.9,20,47
+8,Resident Evil,2,1,1,Resident Evil,2002,3,33,6.7,36,67
+9,Lara Croft: Tomb Raider - The Cradle Of Life,2,1,1,Lara Croft,2003,2,43,7.9,24,44
+10,House of the Dead,2,1,1,House of the Dead,2003,3,15,1.4,3,10
+11,Resident Evil: Apocalypse,2,1,1,Resident Evil,2004,3,35,6.3,20,60
+12,Alone in the Dark,2,1,1,Alone in the Dark,2005,3,9,1.6,1,11
+13,Doom,2,1,1,Doom,2005,3,34,5.6,19,34
+14,BloodRayne,2,1,1,BloodRayne,2006,3,18,7.6,4,17
+15,Silent Hill,2,1,1,Silent Hill,2006,3,31,7.9,31,63
+16,DOA: Dead or Alive,2,1,1,DOA,2006,2,38,7.7,33,36
+17,Resident Evil: Extinction,2,1,1,Resident Evil,2007,3,41,6.2,24,58
+18,Postal,2,1,1,Postal,2007,3,22,6.3,9,34
+19,Hitman,2,1,1,Hitman,2007,3,35,6.4,16,57
+20,In the Name of the King: A Dungeon Siege Tale,2,1,1,In the Name of the King,2008,2,15,7.7,4,23
+21,Far Cry,2,1,1,Far Cry,2008,3,NA,NA,NA,12
+22,Max Payne,2,1,1,Max Payne,2008,2,31,5.2,16,29
+23,Street Fighter: The Legend of Chun-Li,2,1,1,Street Fighter,2009,2,17,3.3,5,18
+24,Tekken,2,1,1,Tekken,2010,3,NA,NA,NA,31
+25,Prince of Persia: The Sands of Time,2,1,1,Prince of Persia,2010,2,50,7.2,37,58
+26,Resident Evil: Afterlife,2,1,1,Resident Evil,2010,3,37,5.5,22,48
+27,Resident Evil: Retribution,2,1,1,Resident Evil,2012,3,39,5.1,29,51
+28,Silent Hill: Revelation,2,1,1,Silent Hill,2012,3,16,4.8,10,35
+29,Need for Speed,2,1,1,Need for Speed,2014,2,39,6.5,23,57
+30,Hitman: Agent 47,2,1,1,Hitman,2015,3,28,4.2,9,40
+31,Warcraft,2,1,1,Warcraft,2016,2,32,8.2,28,76
+32,Assassin's Creed,2,1,1,Assassin's Creed,2016,2,36,6.1,18,43
+33,Resident Evil: The Final Chapter,2,1,1,Resident Evil,2017,3,49,5.1,37,48
+34,Tomb Raider,2,1,1,Tomb Raider,2018,2,48,6.3,51,55
+35,Rampage,2,1,1,Rampage,2018,2,45,5.7,52,71
+36,Dead Trigger,2,1,1,Dead Trigger,2019,3,NA,NA,NA,7
+37,Detective Pikachu,2,1,1,Pokemon,2019,1,53,7.5,68,79
+38,Sonic the Hedgehog,2,1,1,Sonic,2020,1,47,8.3,64,93
+39,Final Fantasy: The Spirits Within,1,1,1,Final Fantasy,2001,2,49,6.2,45,48
+40,Ratchet & Clank,1,1,1,Ratchet & Clank,2016,1,29,6.5,21,42
+41,The Angry Birds Movie,1,1,1,Angry Birds,2016,1,43,6.3,43,46
+42,The Angry Birds Movie 2,1,1,1,Angry Birds,2019,1,60,6.7,73,84
+43,Street Fighter II: The Animated Movie,1,1,2,Street Fighter,1994,2,NA,NA,NA ,78
+44,Pokemon: The First Movie,1,1,2,Pokemon,1998,1,35,7.6,15,63
+45,Pokemon: The Movie 2000,1,1,2,Pokemon,1999,1,28,7.4,19,56
+46,Pokemon 3: The Movie,1,1,2,Pokemon,2000,1,22,6.6,0,60
+47,Pokemon 4ever,1,1,2,Pokemon,2001,1,25,7.2,16,54
+48,Pokemon Heroes,1,1,2,Pokemon,2002,1,27,7.6,17,60
+49,Pokemon: Zoroark: Master of Illusions,1,1,2,Pokemon,2010,1,NA,NA,NA,71
+50,Yo-kai Watch: The Movie,1,1,2,Yo-kai Watch,2014,1,NA,NA,80,74
+51,Yo-kai Watch: Enma Daio to Itsustu no Monogatari,1,1,2,Yo-kai Watch,2015,1,NA,NA,NA,NA
+52,Kingsglaive: Final Fantasy XV,1,1,2,Final Fantasy,2016,2,35,8.5,12,68
+53,Pokemon the Movie: I Choose You!,1,1,2,Pokemon,2017,1,NA,7.1,NA,NA
+54,Fate/stay night: Heaven's Feel I. presage flower,1,1,2,Fate/stay night,2017,3,NA,NA,NA,80
+55,Pokemon the Movie: The Power of Us,1,1,2,Pokemon,2018,1,NA,6.4,71,66
+56,Fate/stay night: Heaven's Feel II. Lost butterfly,1,1,2,Fate/stay night,2019,3,NA,NA,NA,NA
+57,Forbidden Siren,2,1,2,Forbidden Siren,2006,3,NA,NA,NA,NA
+58,Yakuza: Like a Dragon,2,1,2,Yakuza,2007,3,NA,NA,NA,49
+59,OneChanbara,2,1,2,OneChanbara,2008,3,NA,NA,NA,41
+60,Higurashi no Naku Koro ni,2,1,2,Higurashi,2008,3,NA,NA,NA,NA
+61,Higurashi no Naku Koro ni Chikai,2,1,2,Higurashi,2009,3,NA,NA,NA,NA
+62,Ace Attorney,2,1,2,Ace Attorney,2012,2,NA,NA,NA,66
+63,Ao Oni,2,1,2,Ao Oni,2014,3,NA,NA,NA,NA
+64,Fatal Frame,2,1,2,Fatal Frame,2015,3,NA,NA,NA,NA
+65,Ao Oni ver2.0,2,1,2,Ao Oni,2015,3,NA,NA,NA,NA
+66,Corpse Party,2,1,2,Corpse Party,2015,3,NA,NA,NA,NA
+67,Corpse Party Book of Shadows,2,1,2,Corpse Party,2016,3,NA,NA,NA,NA
+68,House of Neko Atsume,2,1,2,Neko Atsume,2017,1,NA,NA,NA,NA
+69,Super Mario Bros.: Peach-Hime Kyushutsu Dai Sakusen!,1,1,2,Super Mario,1986,1,NA,NA,NA,44
+70,Running Boy: Star Soldier no Himitsu,1,1,2,Running Boy,1986,1,NA,NA,NA,NA
+71,Fatal Fury: The Motion Picture,1,1,2,Fatal Fury,1994,2,NA,NA,NA,72
+72,Sakura Wars: The Movie,1,1,2,Sakura Wars,2001,2,NA,3.4,NA,70
+73,Pokemon: Jirachi Wish Maker,1,1,2,Pokemon,2003,1,NA,NA,NA,61
+74,Pokemon: Destiny Deoxys,1,1,2,Pokemon,2004,1,NA,NA,NA,69
+75,Air,1,1,2,Air,2005,1,NA,NA,NA,88
+76,Pokemon: Lucario and the Mystery of Mew,1,1,2,Pokemon,2005,1,NA,NA,NA,80
+77,Pokemon Ranger and the Temple of the Sea,1,1,2,Pokemon,2006,1,NA,NA,NA,70
+78,Animal Crossing,1,1,2,Animal Crossing,2006,1,NA,NA,NA,NA
+79,Pokemon: The Rise of Darkrai,1,1,2,Pokemon,2007,1,NA,NA,NA,75
+80,Clannad,1,1,2,Air,2007,1,NA,NA,NA,77
+81,Pokemon: Giratina and the Sky Warrior,1,1,2,Pokemon,2008,1,NA,NA,NA,65
+82,Resident Evil: Degeneration,1,1,2,Resident Evil,2008,3,NA,NA,67,57
+83,Pokemon: Arceus and the Jewel of Life,1,1,2,Pokemon,2009,1,NA,NA,NA,NA
+84,Tales of Vesperia: The First Strike,1,1,2,Tales of,2009,2,NA,NA,NA,67
+85,Professor Layton and the Eternal Diva,1,1,2,Professor Layton,2009,1,NA,NA,NA,76
+86,Fate/stay night: Unlimited Blade Works,1,1,2,Fate/stay night,2010,3,NA,NA,NA,42
+87,Pokemon the Movie: Black- Victini and Seshiram,1,1,2,Pokemon,2011,1,NA,NA,NA,41
+88,Pokemon the Movie: White-Victini and Zekrom,1,1,2,Pokemon,2011,1,NA,NA,NA,67
+89,Tekken: Blood Vengeance,1,1,2,Tekken,2011,3,NA,NA,NA,45
+90,Dragon Age: Dawn of the Seeker,1,1,2,Dragon Age,2012,3,NA,NA,NA,45
+91,Pokemon the Movie: Kyurem vs. the Sword of Justice,1,1,2,Pokemon,2012,1,NA,NA,NA,56
+92,Resident Evil: Damnation,1,1,2,Resident Evil,2012,3,NA,NA,100,70
+93,Pokemon the Movie: Genesect and the Legend Awakened,1,1,2,Pokemon,2013,1,NA,NA,NA,33
+94,Bayonetta: Bloody Fate,1,1,2,Bayonetta,2013,3,NA,NA,NA,46
+95,"Persona 3 The Movie: No. 1, Spring of Birth",1,1,2,Persona 3,2013,3,NA,NA,NA,89
+96,The Idolmaster Movie: Kagayaki no Mokogawa e!,1,1,2,Idolmaster,2014,2,NA,NA,NA,NA
+97,Pretty Rhythm All-Star Selection: Prism Show Best Ten,1,1,2,Pripara,2014,1,NA,NA,NA,NA
+98,"Persona 3 The Movie: No. 2, Midsummer Knight's Dream",1,1,2,Persona 3,2014,3,NA,NA,NA,NA
+99,Pokemon the Movie: Diancie and the Cocoon of Destruction,1,1,2,Pokemon,2014,1,NA,NA,NA,57
+100,Aikatsu! The Movie,1,1,2,Aikatsu,2014,1,NA,NA,NA,NA
+101,"PriPara the Movie: Everyone, Assemble! Prism Tours",1,1,2,Pripara,2015,1,NA,NA,NA,NA
+102,"Persona 3 The Movie: No. 3, Falling Down",1,1,2,Persona 3,2015,3,NA,NA,NA,NA
+103,Gekijoban Meiji Tokyo Renka: Yumihari no Serenade,1,1,2,Meiji Tokyo Renka,2015,2,NA,NA,NA,NA
+104,Pokemon the Movie: Hoopa and the Clash of Ages,1,1,2,Pokemon,2015,1,NA,NA,NA,44
+105,Aikatsu! Music Award: Minna de Sho o MoraimaSHOW!,1,1,2,Aikatsu,2015,1,NA,NA,NA,NA
+106,"Fly Out, PriPara: Aim for it with Everyone! Idol Frand Prix",1,1,2,Pripara,2016,1,NA,NA,NA,NA
+107,King of Prism by Prettyrhythm,1,1,2,Pripara,2016,1,NA,NA,NA,NA
+108,"Persona 3 The Movie: No. 4, Winter of Rebirth ",1,1,2,Persona 3,2016,3,NA,NA,NA,NA
+109,PriPara Minna no Akogare Let's Go PriPari,1,1,2,Pripara,2016,1,NA,NA,NA,NA
+110,Pokemon the Movie: Volcanion and the Mechanical Marvel,1,1,2,Pokemon,2016,1,NA,NA,NA,NA
+111,Monster Strike The Movie,1,1,2,Monster Strike,2016,2,NA,NA,NA,NA
+112,Yo-kai Watch: Soratobu Kujira to Double no Sekai no Daiboken da Nyan!,1,1,2,Yo-kai Watch,2016,1,NA,NA,NA,NA
+113,Resident Evil: Vendetta,1,1,2,Resident Evil,2017,3,NA,6.8,43,47
+114,King of Prism: Pride the Hero,1,1,2,Pripara,2017,1,NA,NA,NA,NA
+115,Yo-kai Watch Shadowside: Oni-o no Fukkatsu,1,1,2,Yo-kai Watch,2017,1,NA,NA,NA,NA
+116,Monster Strike The Movie: Sora no Kanata,1,1,2,Monster Strike,2018,2,NA,NA,NA,NA
+117,Yo-Kai Watch: Forever Friends,1,1,2,Yo-kai Watch,2018,1,NA,NA,NA,NA
+118,Pokemon: Mewtwo Strikes Back Evolution,1,1,2,Pokemon,2019,1,NA,6.6,44,42
+119,Dragon Quest: Your Story,1,2,2,Dragon Quest,2019,1,NA,NA,NA,78
+120,Fatal Fury: Legend of the Hungry Wolf,1,2,2,Fatal Fury,1992,2,NA,NA,NA,NA
+121,Samurai Shodown: The Motion Picture,1,2,2,Samurai Shodown,1993,2,NA,NA,NA,NA
+122,Fatal Fury 2: The New Battle,1,2,2,Fatal Fury,1993,2,NA,NA,NA,NA
+123,Art of Fighting,1,2,2,Art of Fighting,1993,2,NA,NA,NA,NA
+124,Pokemon: Mewtwo Returns,1,2,2,Pokemon,2000,1,NA,NA,NA,60
+125,Pokemon: The Legend of Thunder,1,2,2,Pokemon,2001,1,NA,NA,NA,NA
+126,House of the Dead 2,2,2,2,House of the Dead,2006,3,NA,NA,NA,22
+127,Pokemon: The Mastermind of Mirage Pokemon,1,2,2,Pokemon,2006,1,NA,NA,NA,75
+128,Red Faction: Origins,2,2,2,Red Faction,2011,2,NA,NA,NA,24
+129,Higurashi no Naku Koro ni Kaku: Outbreak,1,2,2,Higurashi,2013,3,NA,NA,NA,NA
+130,Tengai Makyo Jiraia Oboro Hen,1,3,3,Tengai Makyo,1990,1,NA,NA,NA,NA
+131,Ninja Gaiden,1,3,3,Ninja Gaiden,1991,3,NA,NA,NA,NA
+132,Mortal Kombat: The Journey Begins,1,3,3,Mortal Kombat,1995,2,NA,NA,NA,NA
+133,Battle Arena Toshinden,1,3,3,Battle Arena Toshinden,1996,2,NA,NA,NA,25
+134,Sonic the Hedgehog,1,3,3,Sonic,1996,1,NA,NA,NA,77
+135,Voltage Fighters: Gowcaizer the Movie,1,3,3,Voltage Fighters,1997,3,NA,NA,NA,53
+136,Tekken: The Motion Picture,1,3,3,Tekken,1998,3,NA,NA,NA,41
+137,Samurai Spirits 2: Asura Zanmaden,1,3,3,Samurai Shodown,1999,2,NA,NA,NA,NA
+138,Street Fighter Alpha: the Movie,1,3,3,Street Fighter,2000,2,NA,NA,NA,48
+139,Sin: The Movie,1,3,3,Sin,2000,2,NA,NA,NA,21
+140,Zone of the Enders: 2167 Idolo,1,3,3,Zone of the Enders,2001,3,NA,NA,NA,NA
+141,Nakoroku Ano hito kara no okurimono,1,3,3,Samurai Shodown,2002,2,NA,NA,NA,NA
+142,Welcome to Pia Carrot - Sayaka's Love Story,1,3,3,Pia Carrot,2002,1,NA,NA,NA,NA
+143,Galerians: Rion,1,3,3,Galerians,2004,2,NA,NA,NA,NA
+144,Final Fantasy VII: Advent Children,1,3,3,Final Fantasy,2005,1,NA,NA,33,84
+145,Last Order: Final Fantasy VII,1,3,3,Final Fantasy,2005,1,NA,NA,NA,84
+146,Street Fighter Alpha: Generations,1,3,3,Street Fighter,2005,2,NA,NA,NA,NA
+147,Dead Space: Downfall,1,3,3,Dead Space,2008,3,NA,NA,NA,42
+148,Street Fighter IV: The Ties That Bind,1,3,3,Street Fighter,2009,2,NA,NA,NA,NA
+149,Dante's Inferno: An Animated Epic,1,3,3,Dante's Inferno,2010,3,NA,NA,NA,NA
+150,Halo Legends,1,3,3,Halo,2010,3,NA,NA,NA,71
+151,Dead Space: Aftermath,1,3,3,Dead Space,2011,3,NA,NA,NA,28
+152,Mass Effect: Paragon Lost,1,3,3,Mass Effect,2012,3,NA,NA,NA,56
+153,Batman: Assault on Arkham,1,3,3,Batman,2014,2,NA,NA,75,85
+154,Heavenly Sword,1,3,3,Heavenly Sword,2014,2,NA,NA,NA,28
+155,Tokimeki Memorial,2,3,3,Tokimeki,1994,2,NA,NA,NA,NA
+156,BloodRayne 2: Deliverance,2,3,3,BloodRayne,2007,3,NA,NA,NA,14
+157,Alone in the Dark II,2,3,3,Alone in the Dark,2008,3,NA,NA,NA,11
+158,The King of Fighters,2,3,3,The King of Fighters,2009,3,NA,NA,NA,11
+159,BloodRayne: The Third Reich,2,3,3,BloodRayne,2010,3,NA,NA,NA,12
+160,In the Name of the King 2: Two Worlds,1,3,3,In the Name of the King,2011,2,NA,NA,NA,17
+161,Halo 4: Forward Unto Dawn,1,3,3,Halo,2012,3,NA,NA,NA,67
+162,Company of Heroes,1,3,3,Company of Heroes,2013,3,NA,NA,NA,36
+163,Zombie Massacre,1,3,3,Zombie Massacre,2013,3,NA,NA,NA,6
+164,In the Name of the King 3: The Last Mission,1,3,3,In the Name of the King,2014,2,NA,NA,NA,10
+165,Street Fighter: Assassin's Fist,1,3,3,Street Fighter,2014,2,NA,NA,NA,NA
+166,Tekken 2: Kazuya's Revenge,1,3,3,Tekken,2014,3,NA,NA,NA,8
+167,Halo: Nightfall,1,3,3,Halo,2015,3,NA,NA,NA,34
+168,Dead Rising: Watchtower,1,3,3,Dead Rising,2015,3,NA,NA,NA,30
+169,Dead Rising: Endgame,1,3,3,Dead Rising,2016,3,NA,NA,NA,26
+170,It Came from the Desert,1,3,3,It Came from the Desert,2018,3,NA,NA,60,25
+171,Doom: Annihilation,1,3,3,Doom,2019,3,NA,NA,50,15
